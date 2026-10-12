@@ -2,6 +2,10 @@
 
 **A lightweight, sandboxed WordPress form-builder and SMTP mail engine — built around a self-contained, fault-isolated addon architecture.**
 
+<p align="center">
+  <img src="Main@1x.png" alt="Custom Minimalist Mailer (CMM) - A lightweight, sandboxed wordpress form-builder and SMPT mail engine" width="100%" />
+</p>
+
 Originally engineered for the ALK (Alkhidmat) Elementor theme, CMM4 replaces generic form-plugin bloat with a single, auditable core file plus small, hot-pluggable addons. No external PHP libraries, no Composer dependencies — just WordPress core functions, talking directly to third-party APIs over HTTP.
 
 <p>
